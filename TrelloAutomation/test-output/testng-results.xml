@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T20:40:09 IST" name="Default suite" finished-at="2023-07-21T20:40:46 IST" duration-ms="37107">
+    <groups>
+    </groups>
+    <test started-at="2023-07-21T20:40:09 IST" name="Default test" finished-at="2023-07-21T20:40:46 IST" duration-ms="37107">
+      <class name="com.testscript.DemoScreenshot">
+        <test-method signature="TestScreenshot()[pri:0, instance:com.testscript.DemoScreenshot@235ecd9f]" started-at="2023-07-21T20:40:09 IST" name="TestScreenshot" finished-at="2023-07-21T20:40:46 IST" duration-ms="37012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScreenshot -->
+      </class> <!-- com.testscript.DemoScreenshot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
